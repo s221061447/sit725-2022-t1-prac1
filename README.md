@@ -1,1 +1,1 @@
-# sit725-2022-t1-prac1
+This is the first practical for SIT725. This tutorial is to learn how to create a repository and manage, collaborate with other people.
