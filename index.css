@@ -1,0 +1,13 @@
+body {
+    background-color: #263238;
+}
+
+h1 {
+    text-align: center;
+    color: #009688;
+}
+
+#text {
+    color: #f78c6c;
+    font-size: larger;
+}
